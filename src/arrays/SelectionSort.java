@@ -10,7 +10,7 @@ public class SelectionSort
 		{
 			for(int j = i+1; j <= n.length-1; j++)
 			{
-				if(n[i] >n[j])
+				if(n[i] > n[j])
 				{
 					int temp = n[i];
 					n[i] = n[j];

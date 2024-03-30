@@ -6,7 +6,7 @@ public class Basic
 	{
 		int arr[] = new int[n];
 		
-		for(int i = 1; i<=n-1; i++)
+		for(int i = 0; i<=n-1; i++)
 		{
 //			int arr[] = {i};
 			System.out.println(arr[i]);
