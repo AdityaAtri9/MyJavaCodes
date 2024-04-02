@@ -1,4 +1,4 @@
-package Inheritance;
+package strings;
 
 public class StringToChar 
 {
@@ -14,7 +14,9 @@ public class StringToChar
 	public static void main(String[] args) 
 	{
 		String str = "ADITYA";
-		System.out.println(toCharArray(str));
+		char[] ch = toCharArray(str);
+		System.out.println(ch);
+//		System.out.println(toCharArray(str));
 		
 	}
 
