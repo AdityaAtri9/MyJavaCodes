@@ -1,4 +1,4 @@
-package arrays;
+package searchingANDsorting;
 
 public class LinearSearch 
 {

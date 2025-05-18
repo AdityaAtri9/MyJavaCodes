@@ -1,4 +1,4 @@
-package arrays;
+package searchingANDsorting;
 import java.util.Arrays;
 
 public class SelectionSort 

@@ -5,7 +5,7 @@ public class RotateRight
 {
 	public static int[] rotate(int[] num)
 	{
-		int last = num[num.length-1]; // Storing first element
+		int last = num[num.length-1]; // Storing last element
 		for(int i = num.length-1; i >= 1; i--)
 		{
 			num[i] = num[i-1];

@@ -1,4 +1,4 @@
-package arrays;
+package searchingANDsorting;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class BinarySearch
 		while(l <= h)
 		{
 			int mid = (l+h)/2;
-			//if if mid is equal to key
+			//if mid is equal to key
 			if(num[mid] == key)
 			{
 				return mid;

@@ -1,4 +1,4 @@
-package arrays;
+package searchingANDsorting;
 import java.util.Scanner;
 
 public class BubbleSort 
