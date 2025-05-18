@@ -1,6 +1,5 @@
 package searchingANDsorting;
 
-//[1,6,4,3,2,5]
 public class InserstionSort 
 {
 	public static void sort(int[] arr, int key)
